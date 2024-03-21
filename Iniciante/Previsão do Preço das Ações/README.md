@@ -14,6 +14,7 @@ Observação: Para utilizar uma base de dados diferente da que foi utilizada, re
 ## 🖥️Funcionalidades
 - O modelo é treinado com dados históricos de preços de ações. Neste caso em específico foi utilizado os dados das ações da Google.
 - Ele pode ser usado para fazer previsões de preços futuros.
+- O treinamento foi feito com base no modelo de regressão linear.
 
 ## ⚙️Tecnologias Utilizadas
 - Python
@@ -47,6 +48,7 @@ Note: To use a database other than the one used, we recommend downloading the hi
 ## 🖥️Features
 - The model is trained with historical stock price data. In this specific case, Google stock data was used.
 - It can be used to forecast future prices.
+- Training was based on the linear regression model.
 
 ## ⚙️Technologies
 - Python
